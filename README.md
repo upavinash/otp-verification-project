@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Email and Phone OTP Verification
 
 This project has a React/Vite frontend and a Node.js/Express API backed by MySQL.
@@ -86,3 +87,6 @@ Run the frontend checks from `frontend`:
 npm run lint
 npm run build
 ```
+=======
+# otp-verification-project
+>>>>>>> be8e4fbc1dc94ef2348d5c5361f59d075cdfad4a
